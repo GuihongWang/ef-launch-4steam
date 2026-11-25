@@ -52,10 +52,10 @@
 
 ### 三步装上
 
-**第 1 步** — 打开工具。打包好的 exe（推荐，从 [Releases](https://github.com/GuihongWang/ef-launch-4steam/releases) 下载）：
+**第 1 步** — 打开工具。打包好的 exe（推荐，从 [Releases](https://github.com/GuihongWang/ef-launch-4steam/releases) 下载 `endfield-steam-updater.exe`，即《Steam终末地更新器》—— GitHub 不允许资产名含中文，下载后可随意改名）：
 
 ```powershell
-> <下载目录>\Steam终末地更新器.exe
+> <下载目录>\endfield-steam-updater.exe
 ```
 
 或本机构建（仓库目录下）：
