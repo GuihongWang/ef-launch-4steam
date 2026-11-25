@@ -52,7 +52,13 @@
 
 ### 三步装上
 
-**第 1 步** — 打开工具。打包好的 exe：
+**第 1 步** — 打开工具。打包好的 exe（推荐，从 [Releases](https://github.com/GuihongWang/ef-launch-4steam/releases) 下载）：
+
+```powershell
+> <下载目录>\Steam终末地更新器.exe
+```
+
+或本机构建（仓库目录下）：
 
 ```powershell
 > <仓库目录>\release\Steam终末地更新器.exe
